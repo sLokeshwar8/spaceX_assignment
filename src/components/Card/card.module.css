@@ -1,0 +1,15 @@
+.card {
+    padding: 10px;
+    height: 400px;
+    background: #FFF;
+    width: 190px;
+    text-align: center;
+    margin: 0px 14px 25px;
+
+}
+
+.cardImg {
+    width: 100%;
+    background: #f7f7f7;
+}
+

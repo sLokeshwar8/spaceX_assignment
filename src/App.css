@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background: #f7f7f7;
+}
+
+.footer {
+  text-align: center;
+}
